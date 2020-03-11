@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 20px 15px;
+}
